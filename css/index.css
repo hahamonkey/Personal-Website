@@ -1,0 +1,28 @@
+/*Ö÷À¸*/
+#header{
+    height:140px;
+}
+#h-left{
+    position:absolute;
+    left:50px;
+    top:0;
+}
+#h-right{
+    float:right;
+    overflow:hidden;
+}
+#h-right li{
+    float:left;
+    margin-right:30px;
+    line-height:140px;
+    font-size:18px;
+    font-weight:600;
+}
+#h-right li:first-child{
+    text-decoration:line-through;
+}
+#header span{
+    position:absolute;
+    right:6%;
+    top:60px;
+}
